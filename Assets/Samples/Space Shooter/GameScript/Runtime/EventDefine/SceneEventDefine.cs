@@ -19,12 +19,4 @@ public class SceneEventDefine
             UniEvent.SendMessage(msg);
         }
     }
-    public class ChangeToNowScene : IEventMessage
-    {
-        public static void SendEventMessage()
-        {
-            var msg = new ChangeToNowScene();
-            UniEvent.SendMessage(msg);
-        }
-    }
 }
