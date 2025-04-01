@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Unityproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unityproject\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Utilities\\VSMigrationUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Utilities\\VSMigrationUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|d:\\unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\util\\notificationcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\util\\notificationcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|d:\\unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA82D8F-2FE7-BEE4-C216-CB3D579788DB}|Assembly-CSharp-Editor.csproj|d:\\unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\editor\\createnewuiscriptseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA82D8F-2FE7-BEE4-C216-CB3D579788DB}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\editor\\createnewuiscriptseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VSMigrationUtility.cs",
-              "DocumentMoniker": "D:\\Unityproject\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Utilities\\VSMigrationUtility.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Utilities\\VSMigrationUtility.cs",
-              "ToolTip": "D:\\Unityproject\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Utilities\\VSMigrationUtility.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Utilities\\VSMigrationUtility.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAowE4AAAAAAAAAAAAAAA==",
+              "Title": "NotificationCenter.cs",
+              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Util\\NotificationCenter.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Util\\NotificationCenter.cs",
+              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Util\\NotificationCenter.cs",
+              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Util\\NotificationCenter.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAcwGYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T01:12:15.878Z",
+              "WhenOpened": "2025-03-31T06:58:44.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Models\\UserData.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Models\\UserData.cs",
+              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Models\\UserData.cs",
+              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Models\\UserData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:55:44.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateNewUIScriptsEditor.cs",
+              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Editor\\CreateNewUIScriptsEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Editor\\CreateNewUIScriptsEditor.cs",
+              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Editor\\CreateNewUIScriptsEditor.cs",
+              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Editor\\CreateNewUIScriptsEditor.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAQwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:13:22.284Z",
               "EditorCaption": ""
             }
           ]

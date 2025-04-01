@@ -12,6 +12,9 @@ using System.Collections;
 
 public class NotificationCenter
 {
+    /// <summary>
+    /// 单例模式
+    /// </summary>
     public static NotificationCenter DefaultCenter
     {
         get
@@ -25,7 +28,8 @@ public class NotificationCenter
     }
 
     private static NotificationCenter defaultCenter;
-
+    
+    //构造函数
     private NotificationCenter()
     {
         notifications = new Hashtable();
@@ -33,11 +37,11 @@ public class NotificationCenter
 
     private Hashtable notifications;
 
-
+    //通知处理委托方法
     public delegate void NotificationHandler0();
 
     public delegate void NotificatonHandlerN(params object[] args);
-
+    
     public void AddObserver(object observer, string notification, NotificationHandler0 handler)
     {
         AddObserverFunc(observer, notification, handler);

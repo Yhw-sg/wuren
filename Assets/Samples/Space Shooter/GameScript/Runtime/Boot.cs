@@ -44,6 +44,6 @@ public class Boot : MonoBehaviour
         YooAssets.SetDefaultPackage(gamePackage);
 
         // 切换到主页面场景
-        SceneEventDefine.ChangeToHomeScene.SendEventMessage();
+        SceneEventDefine.ChangeToNowScene.SendEventMessage();
     }
 }

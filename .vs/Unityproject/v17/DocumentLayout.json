@@ -3,56 +3,16 @@
   "WorkspaceRootPath": "D:\\Unityproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|d:\\unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\menumanagement\\mainuimenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\menumanagement\\mainuimenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|d:\\unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\util\\notificationcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\util\\notificationcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|d:\\unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\chat\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\chat\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|D:\\Unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|d:\\unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\chat\\chatpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\chat\\chatpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|d:\\unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\common\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\common\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|d:\\unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\common\\ipresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\common\\ipresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|d:\\unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\common\\menubasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\common\\menubasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|d:\\unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\common\\templatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\common\\templatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|d:\\unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\common\\templatepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\common\\templatepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|d:\\unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\main\\gametopbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\main\\gametopbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|d:\\unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\main\\gametopbarpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\main\\gametopbarpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|d:\\unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\main\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\main\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|d:\\unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\main\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\main\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|d:\\unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\menumanagement\\maincanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7879CD-83CE-5A05-0954-C928DCE0A619}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\umvc\\scripts\\ui\\menumanagement\\maincanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABA82D8F-2FE7-BEE4-C216-CB3D579788DB}|Assembly-CSharp-Editor.csproj|D:\\Unityproject\\assets\\samples\\space shooter\\gamescript\\runtime\\ui\\editor\\createnewuiscriptseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA82D8F-2FE7-BEE4-C216-CB3D579788DB}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\samples\\space shooter\\gamescript\\runtime\\ui\\editor\\createnewuiscriptseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,170 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainUIMenuManager.cs",
-              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\MenuManagement\\MainUIMenuManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\MenuManagement\\MainUIMenuManager.cs",
-              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\MenuManagement\\MainUIMenuManager.cs",
-              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\MenuManagement\\MainUIMenuManager.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAUwBkAAAANAAAAAAAAAA==",
+              "Title": "NotificationCenter.cs",
+              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Util\\NotificationCenter.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Util\\NotificationCenter.cs",
+              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Util\\NotificationCenter.cs",
+              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Util\\NotificationCenter.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAcwFsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T01:27:33.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MainCanvas.cs",
-              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\MenuManagement\\MainCanvas.cs",
-              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\MenuManagement\\MainCanvas.cs",
-              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\MenuManagement\\MainCanvas.cs",
-              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\MenuManagement\\MainCanvas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T01:27:21.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MainPresenter.cs",
-              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Main\\MainPresenter.cs",
-              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Main\\MainPresenter.cs",
-              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Main\\MainPresenter.cs",
-              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Main\\MainPresenter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T01:27:09.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainController.cs",
-              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Main\\MainController.cs",
-              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Main\\MainController.cs",
-              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Main\\MainController.cs",
-              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Main\\MainController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T01:27:03.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GameTopBarPresenter.cs",
-              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Main\\GameTopBarPresenter.cs",
-              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Main\\GameTopBarPresenter.cs",
-              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Main\\GameTopBarPresenter.cs",
-              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Main\\GameTopBarPresenter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T01:26:52.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GameTopBarController.cs",
-              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Main\\GameTopBarController.cs",
-              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Main\\GameTopBarController.cs",
-              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Main\\GameTopBarController.cs",
-              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Main\\GameTopBarController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T01:26:42.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TemplatePresenter.cs",
-              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\TemplatePresenter.cs",
-              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\TemplatePresenter.cs",
-              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\TemplatePresenter.cs",
-              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\TemplatePresenter.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T01:26:30.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TemplateController.cs",
-              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\TemplateController.cs",
-              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\TemplateController.cs",
-              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\TemplateController.cs",
-              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\TemplateController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAUwAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T01:26:12.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MenuBaseController.cs",
-              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\MenuBaseController.cs",
-              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\MenuBaseController.cs",
-              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\MenuBaseController.cs",
-              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\MenuBaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T01:25:59.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IPresenter.cs",
-              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\IPresenter.cs",
-              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\IPresenter.cs",
-              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\IPresenter.cs",
-              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\IPresenter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T01:25:44.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IController.cs",
-              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\IController.cs",
-              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\IController.cs",
-              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\IController.cs",
-              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Common\\IController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T01:25:17.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ChatPresenter.cs",
-              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Chat\\ChatPresenter.cs",
-              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Chat\\ChatPresenter.cs",
-              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Chat\\ChatPresenter.cs",
-              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Chat\\ChatPresenter.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAA1wAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T01:25:02.253Z",
+              "WhenOpened": "2025-03-31T06:58:44.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ChatController.cs",
-              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Chat\\ChatController.cs",
-              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Chat\\ChatController.cs",
-              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Chat\\ChatController.cs",
-              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\UMVC\\Scripts\\UI\\Chat\\ChatController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Title": "UserData.cs",
+              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Models\\UserData.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Models\\UserData.cs",
+              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Models\\UserData.cs",
+              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Models\\UserData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T01:24:54.194Z",
+              "WhenOpened": "2025-03-31T06:55:44.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateNewUIScriptsEditor.cs",
+              "DocumentMoniker": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Editor\\CreateNewUIScriptsEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Editor\\CreateNewUIScriptsEditor.cs",
+              "ToolTip": "D:\\Unityproject\\Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Editor\\CreateNewUIScriptsEditor.cs",
+              "RelativeToolTip": "Assets\\Samples\\Space Shooter\\GameScript\\Runtime\\UI\\Editor\\CreateNewUIScriptsEditor.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:13:22.284Z",
               "EditorCaption": ""
             }
           ]

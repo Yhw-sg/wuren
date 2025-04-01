@@ -10,15 +10,21 @@ public class CreateNewUIScriptsEditor : EditorWindow
     [MenuItem("Template Script/Create")]
     static void OpenEditor()
     {
+        //创建窗口
         GetWindowWithRect<CreateNewUIScriptsEditor>(new Rect(100, 100, 300, 200), false, "Create");
     }
-
+    //输入的名字
     private string scriptName = "Xxx";
     private string namespaceName = "";
 
-    private readonly string PATH_TO_PRESENTER_TEMPLATE = "Assets/Scripts/UI/Common/TemplatePresenter.cs";
-    private readonly string PATH_TO_CONTROLLER_TEMPLATE = "Assets/Scripts/UI/Common/TemplateController.cs";
+    //模板文件路径
+    private readonly string PATH_TO_PRESENTER_TEMPLATE = "Assets/Samples/Space Shooter/GameScript/Runtime/UI/UI/Common/TemplatePresenter.cs";
+    private readonly string PATH_TO_CONTROLLER_TEMPLATE = "Assets/Samples/Space Shooter/GameScript/Runtime/UI/UI/Common/TemplateController.cs";
 
+
+    /// <summary>
+    /// 绘制窗口布局
+    /// </summary>
     void OnGUI()
     {
         EditorGUILayout.Space();
@@ -47,7 +53,7 @@ public class CreateNewUIScriptsEditor : EditorWindow
 
         EditorGUILayout.Space();
 
-        if (GUILayout.Button("Create"))
+        if (GUILayout.Button("生成MVC脚本"))
         {
             Create();
         }
@@ -55,33 +61,44 @@ public class CreateNewUIScriptsEditor : EditorWindow
 
     void Create()
     {
+        //根据输入的名字动态生成脚本
         var presenter = string.Format("{0}Presenter", scriptName);
         var controller = string.Format("{0}Controller", scriptName);
 
-        var folderPath = "Assets/Scripts/UI/";
+        //生成脚本路径
+        var folderPath = "Assets/Samples/Space Shooter/GameScript/Runtime/UI/";
+        //如果有命名空间，生成到对应的命名空间下
         if (namespaceName != null && namespaceName != "")
         {
-            folderPath = string.Format("Assets/Scripts/UI/{0}/", namespaceName);
+            folderPath = string.Format("Assets/Samples/Space Shooter/GameScript/Runtime/UI{0}/", namespaceName);
+            //如果没有文件夹，创建文件夹
             if (!Directory.Exists(folderPath))
             {
                 Directory.CreateDirectory(folderPath);
             }
         }
 
-
+        //生成脚本
         var presenterPath = folderPath + presenter + ".cs";
         var controllerPath = folderPath + controller + ".cs";
 
+        //如果文件不存在，复制模板文件
         if (!File.Exists(presenterPath))
         {
+            //复制模板文件
             File.Copy(PATH_TO_PRESENTER_TEMPLATE, Path.Combine(folderPath, presenter + ".cs"));
+            //读取模板文件内容
             var text = File.ReadAllText(presenterPath);
+            //替换模板内容
             text = text.Replace("TemplatePresenter", presenter);
+            //替换模板内容
             text = text.Replace("TemplateController", controller);
+            //替换命名空间
             if (namespaceName != null && namespaceName != "")
             {
                 text = text.Replace("namespace Client.UI", string.Format("namespace Client.UI.{0}", namespaceName));
             }
+            //写入新文件
             File.WriteAllText(presenterPath, text);
         }
 
@@ -98,6 +115,7 @@ public class CreateNewUIScriptsEditor : EditorWindow
             File.WriteAllText(controllerPath, text);
         }
 
+        //刷新资源
         AssetDatabase.Refresh();
     }
 }
