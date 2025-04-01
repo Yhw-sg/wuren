@@ -8,11 +8,7 @@
     "BuildPipeline": "EditorSimulateBuildPipeline",
     "PackageName": "DefaultPackage",
     "PackageVersion": "Simulate",
-<<<<<<< HEAD
-    "PackageNote": "2025/4/1 18:18:57",
-=======
-    "PackageNote": "2025/4/1 18:27:07",
->>>>>>> dev
+    "PackageNote": "2025/4/1 20:45:15",
     "AssetList": [
         {
             "Address": "music_background",
@@ -195,23 +191,13 @@
             "DependBundleIDs": []
         },
         {
-            "Address": "New Scene",
-            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Scene/New Scene.unity",
-            "AssetGUID": "",
-            "AssetTags": [
-                "scene"
-            ],
-            "BundleID": 3,
-            "DependBundleIDs": []
-        },
-        {
             "Address": "scene_battle",
             "AssetPath": "Assets/Samples/Space Shooter/GameRes/Scene/scene_battle.unity",
             "AssetGUID": "",
             "AssetTags": [
                 "scene"
             ],
-            "BundleID": 4,
+            "BundleID": 3,
             "DependBundleIDs": []
         },
         {
@@ -221,7 +207,7 @@
             "AssetTags": [
                 "scene"
             ],
-            "BundleID": 5,
+            "BundleID": 4,
             "DependBundleIDs": []
         },
         {
@@ -231,7 +217,7 @@
             "AssetTags": [
                 "scene"
             ],
-            "BundleID": 6,
+            "BundleID": 5,
             "DependBundleIDs": []
         },
         {
@@ -241,7 +227,7 @@
             "AssetTags": [
                 "scene"
             ],
-            "BundleID": 7,
+            "BundleID": 6,
             "DependBundleIDs": []
         },
         {
@@ -251,7 +237,7 @@
             "AssetTags": [
                 "ui"
             ],
-            "BundleID": 8,
+            "BundleID": 7,
             "DependBundleIDs": []
         },
         {
@@ -261,7 +247,7 @@
             "AssetTags": [
                 "ui"
             ],
-            "BundleID": 8,
+            "BundleID": 7,
             "DependBundleIDs": []
         },
         {
@@ -271,7 +257,7 @@
             "AssetTags": [
                 "ui"
             ],
-            "BundleID": 8,
+            "BundleID": 7,
             "DependBundleIDs": []
         }
     ],
@@ -302,16 +288,6 @@
             "FileHash": "6cf2328c136d171ec8d9fa07a5e82915",
             "FileCRC": "00000000",
             "FileSize": 393695,
-            "Encrypted": false,
-            "Tags": [],
-            "DependBundleIDs": []
-        },
-        {
-            "BundleName": "assets_samples_space_shooter_gameres_scene_new_scene.bundle",
-            "UnityCRC": 0,
-            "FileHash": "b34f211b73574c93f97b86e683b33c88",
-            "FileCRC": "00000000",
-            "FileSize": 8442,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
