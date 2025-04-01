@@ -8,7 +8,11 @@
     "BuildPipeline": "EditorSimulateBuildPipeline",
     "PackageName": "DefaultPackage",
     "PackageVersion": "Simulate",
+<<<<<<< HEAD
     "PackageNote": "2025/4/1 18:18:57",
+=======
+    "PackageNote": "2025/4/1 18:27:07",
+>>>>>>> dev
     "AssetList": [
         {
             "Address": "music_background",
@@ -287,7 +291,7 @@
             "UnityCRC": 0,
             "FileHash": "e787de7d6573f0d3d811049b96e5c317",
             "FileCRC": "00000000",
-            "FileSize": 2303180,
+            "FileSize": 2398266,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -297,7 +301,7 @@
             "UnityCRC": 0,
             "FileHash": "6cf2328c136d171ec8d9fa07a5e82915",
             "FileCRC": "00000000",
-            "FileSize": 378176,
+            "FileSize": 393695,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -307,7 +311,7 @@
             "UnityCRC": 0,
             "FileHash": "b34f211b73574c93f97b86e683b33c88",
             "FileCRC": "00000000",
-            "FileSize": 8126,
+            "FileSize": 8442,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -317,7 +321,7 @@
             "UnityCRC": 0,
             "FileHash": "76f61e8b8ed750a1c1f032cb3541bb83",
             "FileCRC": "00000000",
-            "FileSize": 285966,
+            "FileSize": 297568,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -327,7 +331,7 @@
             "UnityCRC": 0,
             "FileHash": "9b88c07a144ae65308c1b4f6efd794f4",
             "FileCRC": "00000000",
-            "FileSize": 1761,
+            "FileSize": 1824,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -337,7 +341,7 @@
             "UnityCRC": 0,
             "FileHash": "c732eff422e38e53d1225f4d9d82fe83",
             "FileCRC": "00000000",
-            "FileSize": 18412,
+            "FileSize": 19070,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -347,7 +351,7 @@
             "UnityCRC": 0,
             "FileHash": "f828d40e701685c3274ac9c9cf1db874",
             "FileCRC": "00000000",
-            "FileSize": 1758,
+            "FileSize": 1821,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -357,7 +361,7 @@
             "UnityCRC": 0,
             "FileHash": "743d119bde5afe152914134a64f3d6e6",
             "FileCRC": "00000000",
-            "FileSize": 76718,
+            "FileSize": 79329,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
