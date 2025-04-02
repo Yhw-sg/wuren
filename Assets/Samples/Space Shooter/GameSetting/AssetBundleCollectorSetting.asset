@@ -45,6 +45,14 @@ MonoBehaviour:
         FilterRuleName: CollectAll
         AssetTags: 
         UserData: 
+      - CollectPath: Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models
+        CollectorGUID: 53d355296ac20b44bbc89d0ab289b491
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
     - GroupName: ugui
       GroupDesc: "\u9762\u677F"
       AssetTags: ui

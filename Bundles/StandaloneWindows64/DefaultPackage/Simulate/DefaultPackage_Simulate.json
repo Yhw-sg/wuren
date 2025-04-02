@@ -8,8 +8,928 @@
     "BuildPipeline": "EditorSimulateBuildPipeline",
     "PackageName": "DefaultPackage",
     "PackageVersion": "Simulate",
-    "PackageNote": "2025/4/2 19:11:30",
+    "PackageNote": "2025/4/2 19:41:54",
     "AssetList": [
+        {
+            "Address": "SM_Barbershop_01",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Barbershop_01.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Barbershop_02",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Barbershop_02.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_bistro_01_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_bistro_01_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_bistro_01_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_bistro_01_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Building_01_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Building_01_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Building_01_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Building_01_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Building_02_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Building_02_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Building_02_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Building_02_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Building_03_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Building_03_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Building_03_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Building_03_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Building_04_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Building_04_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Building_04_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Building_04_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_buisness_building_01_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_buisness_building_01_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_buisness_building_01_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_buisness_building_01_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_cafe_01_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_cafe_01_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_cafe_01_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_cafe_01_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Circus",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Circus.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_CopterPlace",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_CopterPlace.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_elite_building_01_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_elite_building_01_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_elite_building_01_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_elite_building_01_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_factory_01_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_factory_01_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_factory_01_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_factory_01_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_factory_01_C",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_factory_01_C.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Factory_02_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Factory_02_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Factory_02_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Factory_02_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Garage_01",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Garage_01.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Garage_02",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Garage_02.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Government_01_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Government_01_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Government_01_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Government_01_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Guildhall_01_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Guildhall_01_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Guildhall_01_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Guildhall_01_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Hospital",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Hospital.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_hostel_01_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_hostel_01_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_hostel_01_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_hostel_01_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Hotel_01_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Hotel_01_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Hotel_01_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Hotel_01_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_house_01_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_house_01_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_house_01_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_house_01_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_house_02_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_house_02_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_house_02_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_house_02_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_house_03_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_house_03_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_house_03_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_house_03_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_house_04_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_house_04_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_house_04_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_house_04_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_house_05_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_house_05_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_house_05_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_house_05_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_house_06_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_house_06_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_house_06_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_house_06_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_house_35",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_house_35.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_house_36",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_house_36.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_house_37",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_house_37.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_house_38",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_house_38.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_house_39",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_house_39.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_house_40",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_house_40.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_House_78_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_House_78_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_House_78_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_House_78_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Market_01_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Market_01_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Market_01_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Market_01_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_market_02_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_market_02_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_market_03_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_market_03_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Motel_01_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Motel_01_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Motel_01_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Motel_01_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Museum_01_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Museum_01_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Museum_01_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Museum_01_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Police_01_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Police_01_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Police_01_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Police_01_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Restaurant_01_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Restaurant_01_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Restaurant_01_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Houses/SM_Restaurant_01_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_floor_01",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Street/SM_floor_01.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_floor_02",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Street/SM_floor_02.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_floor_03",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Street/SM_floor_03.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_floor_04",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Street/SM_floor_04.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_flower_bed",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Street/SM_flower_bed.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_road_01",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Street/SM_road_01.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_road_02",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Street/SM_road_02.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_road_03",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Street/SM_road_03.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_road_04",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Street/SM_road_04.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_road_05",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Street/SM_road_05.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_sidewalk_01",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Street/SM_sidewalk_01.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_sidewalk_02",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Street/SM_sidewalk_02.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_sidewalk_03",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Street/SM_sidewalk_03.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_street_light",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Street/SM_street_light.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Tree_01_A",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Street/SM_Tree_01_A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Tree_01_B",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Street/SM_Tree_01_B.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Tree_01_C",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Street/SM_Tree_01_C.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_Tree_01_D",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Street/SM_Tree_01_D.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_car_01",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Vehicles/SM_car_01.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_car_02",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Vehicles/SM_car_02.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_car_03",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Vehicles/SM_car_03.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_car_04",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Vehicles/SM_car_04.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_car_05",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Vehicles/SM_car_05.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SM_helicopter_01",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Polygon-Houses/Models/Vehicles/SM_helicopter_01.fbx",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
         {
             "Address": "LoadingScene",
             "AssetPath": "Assets/Samples/Space Shooter/GameRes/Scenes/LoadingScene.unity",
@@ -17,7 +937,7 @@
             "AssetTags": [
                 "scene"
             ],
-            "BundleID": 0,
+            "BundleID": 3,
             "DependBundleIDs": []
         },
         {
@@ -27,7 +947,7 @@
             "AssetTags": [
                 "scene"
             ],
-            "BundleID": 1,
+            "BundleID": 4,
             "DependBundleIDs": []
         },
         {
@@ -37,7 +957,7 @@
             "AssetTags": [
                 "scene"
             ],
-            "BundleID": 2,
+            "BundleID": 5,
             "DependBundleIDs": []
         },
         {
@@ -47,7 +967,27 @@
             "AssetTags": [
                 "scene"
             ],
-            "BundleID": 3,
+            "BundleID": 6,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Polygon_Texture",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Sprites/Textures/Polygon_Texture.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 7,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "DiTu",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/UIPrefab/DT/DiTu.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ui"
+            ],
+            "BundleID": 8,
             "DependBundleIDs": []
         },
         {
@@ -57,7 +997,7 @@
             "AssetTags": [
                 "ui"
             ],
-            "BundleID": 4,
+            "BundleID": 9,
             "DependBundleIDs": []
         },
         {
@@ -67,11 +1007,41 @@
             "AssetTags": [
                 "ui"
             ],
-            "BundleID": 5,
+            "BundleID": 10,
             "DependBundleIDs": []
         }
     ],
     "BundleList": [
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_polygon-houses_models_houses.bundle",
+            "UnityCRC": 0,
+            "FileHash": "005424d768a4e37594956a5e3a47c9f0",
+            "FileCRC": "00000000",
+            "FileSize": 4582288,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_polygon-houses_models_street.bundle",
+            "UnityCRC": 0,
+            "FileHash": "48ae0eb16eee48ad9f2a33bee009cf90",
+            "FileCRC": "00000000",
+            "FileSize": 414808,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_polygon-houses_models_vehicles.bundle",
+            "UnityCRC": 0,
+            "FileHash": "c5e2cb6ff72284ed72e8c490600bc0b3",
+            "FileCRC": "00000000",
+            "FileSize": 364216,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
         {
             "BundleName": "assets_samples_space_shooter_gameres_scenes_loadingscene.bundle",
             "UnityCRC": 0,
@@ -108,6 +1078,26 @@
             "FileHash": "645ba8856537d767afbc350a58744a80",
             "FileCRC": "00000000",
             "FileSize": 2708038,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_sprites_textures.bundle",
+            "UnityCRC": 0,
+            "FileHash": "44424cafe434febbc1ff750a9bb4c638",
+            "FileCRC": "00000000",
+            "FileSize": 51110,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_uiprefab_dt_ditu.bundle",
+            "UnityCRC": 0,
+            "FileHash": "f0139a4f408e947800371ef9e9a0b835",
+            "FileCRC": "00000000",
+            "FileSize": 746954,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
