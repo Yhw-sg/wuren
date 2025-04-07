@@ -8,7 +8,7 @@
     "BuildPipeline": "EditorSimulateBuildPipeline",
     "PackageName": "DefaultPackage",
     "PackageVersion": "Simulate",
-    "PackageNote": "2025/4/7 10:31:41",
+    "PackageNote": "2025/4/7 15:22:42",
     "AssetList": [
         {
             "Address": "SM_Barbershop_01",
@@ -931,13 +931,23 @@
             "DependBundleIDs": []
         },
         {
+            "Address": "Fang",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Scenes/Fang.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 3,
+            "DependBundleIDs": []
+        },
+        {
             "Address": "LoadingScene",
             "AssetPath": "Assets/Samples/Space Shooter/GameRes/Scenes/LoadingScene.unity",
             "AssetGUID": "",
             "AssetTags": [
                 "scene"
             ],
-            "BundleID": 3,
+            "BundleID": 4,
             "DependBundleIDs": []
         },
         {
@@ -947,7 +957,7 @@
             "AssetTags": [
                 "scene"
             ],
-            "BundleID": 4,
+            "BundleID": 5,
             "DependBundleIDs": []
         },
         {
@@ -957,7 +967,7 @@
             "AssetTags": [
                 "scene"
             ],
-            "BundleID": 5,
+            "BundleID": 6,
             "DependBundleIDs": []
         },
         {
@@ -967,7 +977,7 @@
             "AssetTags": [
                 "scene"
             ],
-            "BundleID": 6,
+            "BundleID": 7,
             "DependBundleIDs": []
         },
         {
@@ -977,7 +987,7 @@
             "AssetTags": [
                 "scene"
             ],
-            "BundleID": 7,
+            "BundleID": 8,
             "DependBundleIDs": []
         },
         {
@@ -987,7 +997,7 @@
             "AssetTags": [
                 "ui"
             ],
-            "BundleID": 8,
+            "BundleID": 9,
             "DependBundleIDs": []
         },
         {
@@ -997,7 +1007,7 @@
             "AssetTags": [
                 "ui"
             ],
-            "BundleID": 9,
+            "BundleID": 10,
             "DependBundleIDs": []
         },
         {
@@ -1007,7 +1017,17 @@
             "AssetTags": [
                 "ui"
             ],
-            "BundleID": 10,
+            "BundleID": 11,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SelectPanel",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/UIPrefab/SelectPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ui"
+            ],
+            "BundleID": 12,
             "DependBundleIDs": []
         },
         {
@@ -1017,7 +1037,7 @@
             "AssetTags": [
                 "ui"
             ],
-            "BundleID": 11,
+            "BundleID": 13,
             "DependBundleIDs": []
         }
     ],
@@ -1025,7 +1045,7 @@
         {
             "BundleName": "assets_samples_space_shooter_gameres_polygon-houses_models_houses.bundle",
             "UnityCRC": 0,
-            "FileHash": "4283f9ad3c334113f8ccfa24969c29bb",
+            "FileHash": "6f293966a2c9586f63d16cff1988f13e",
             "FileCRC": "00000000",
             "FileSize": 4582288,
             "Encrypted": false,
@@ -1035,7 +1055,7 @@
         {
             "BundleName": "assets_samples_space_shooter_gameres_polygon-houses_models_street.bundle",
             "UnityCRC": 0,
-            "FileHash": "602c8e17e007c36a9ae9da3ede25a888",
+            "FileHash": "787e996c34651092841fa8bc09998b8a",
             "FileCRC": "00000000",
             "FileSize": 414808,
             "Encrypted": false,
@@ -1045,7 +1065,7 @@
         {
             "BundleName": "assets_samples_space_shooter_gameres_polygon-houses_models_vehicles.bundle",
             "UnityCRC": 0,
-            "FileHash": "e1f9a891bce1b8d94e9a65e3d5114154",
+            "FileHash": "7eb4bec5818bdcc2b592a5fef01a6840",
             "FileCRC": "00000000",
             "FileSize": 364216,
             "Encrypted": false,
@@ -1053,9 +1073,19 @@
             "DependBundleIDs": []
         },
         {
+            "BundleName": "assets_samples_space_shooter_gameres_scenes_fang.bundle",
+            "UnityCRC": 0,
+            "FileHash": "9b053d884a6e08455eb5ee33c48947a5",
+            "FileCRC": "00000000",
+            "FileSize": 33610,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
             "BundleName": "assets_samples_space_shooter_gameres_scenes_loadingscene.bundle",
             "UnityCRC": 0,
-            "FileHash": "a3ac006604ff0a9b14c369dd96dd9fd6",
+            "FileHash": "98277393631d9344e2059ff9466813ee",
             "FileCRC": "00000000",
             "FileSize": 3618,
             "Encrypted": false,
@@ -1065,9 +1095,9 @@
         {
             "BundleName": "assets_samples_space_shooter_gameres_scenes_mainscene.bundle",
             "UnityCRC": 0,
-            "FileHash": "88ed6227a8c8a9a1861a5c9b3bf1a0c9",
+            "FileHash": "40a2eaba304c7600ad7bd38271042bb2",
             "FileCRC": "00000000",
-            "FileSize": 34325,
+            "FileSize": 13049,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -1075,7 +1105,7 @@
         {
             "BundleName": "assets_samples_space_shooter_gameres_scenes_startingscene.bundle",
             "UnityCRC": 0,
-            "FileHash": "a01718eae00b9fc729e493a6af816c48",
+            "FileHash": "ad6fefc4ffbbe01edfb48ac3503929e4",
             "FileCRC": "00000000",
             "FileSize": 3618,
             "Encrypted": false,
@@ -1085,7 +1115,7 @@
         {
             "BundleName": "assets_samples_space_shooter_gameres_sprites.bundle",
             "UnityCRC": 0,
-            "FileHash": "04f7c4d65429625e5a0276581979b47d",
+            "FileHash": "c921ecb6ffc462e4181c5e278283cf71",
             "FileCRC": "00000000",
             "FileSize": 2708038,
             "Encrypted": false,
@@ -1095,7 +1125,7 @@
         {
             "BundleName": "assets_samples_space_shooter_gameres_sprites_textures.bundle",
             "UnityCRC": 0,
-            "FileHash": "1a970bc70d16ea86b5705429c04224f2",
+            "FileHash": "aa08eeb5a1119edda1089d1481197df2",
             "FileCRC": "00000000",
             "FileSize": 51110,
             "Encrypted": false,
@@ -1105,9 +1135,9 @@
         {
             "BundleName": "assets_samples_space_shooter_gameres_uiprefab_dt_build-popup.bundle",
             "UnityCRC": 0,
-            "FileHash": "5a2d620c42935250ca66f23b90f467ba",
+            "FileHash": "7a3d091727bf85da4ba5cb38ac16db57",
             "FileCRC": "00000000",
-            "FileSize": 16782,
+            "FileSize": 17341,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -1115,7 +1145,7 @@
         {
             "BundleName": "assets_samples_space_shooter_gameres_uiprefab_dt_ditu.bundle",
             "UnityCRC": 0,
-            "FileHash": "d4b25a05a2cc67b4c5041175ddc7d52d",
+            "FileHash": "988f83adddc75f3eae04ebd98acb7641",
             "FileCRC": "00000000",
             "FileSize": 772562,
             "Encrypted": false,
@@ -1125,9 +1155,19 @@
         {
             "BundleName": "assets_samples_space_shooter_gameres_uiprefab_loadingpanel.bundle",
             "UnityCRC": 0,
-            "FileHash": "6e70b19c83ca15661176c449dae93557",
+            "FileHash": "0952d562fe627a4d89fb87a61d06431b",
             "FileCRC": "00000000",
-            "FileSize": 3043,
+            "FileSize": 48449,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_uiprefab_selectpanel.bundle",
+            "UnityCRC": 0,
+            "FileHash": "750f9b3886f8d50b3cfa74b8bd6540b2",
+            "FileCRC": "00000000",
+            "FileSize": 110911,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -1135,7 +1175,7 @@
         {
             "BundleName": "assets_samples_space_shooter_gameres_uiprefab_startpanel.bundle",
             "UnityCRC": 0,
-            "FileHash": "2927a329531c156fac7c571bf33fdeaf",
+            "FileHash": "e97344d947b9aebec0fcd619f29066c3",
             "FileCRC": "00000000",
             "FileSize": 10973,
             "Encrypted": false,
