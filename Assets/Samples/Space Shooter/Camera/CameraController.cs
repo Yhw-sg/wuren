@@ -44,6 +44,6 @@ public class CameraController : MonoBehaviour
             originalPosition.z + zLimit.y);
 
         transform.position = newPosition;
-       // dragOrigin = Input.mousePosition;
+       //dragOrigin = Input.mousePosition;
     }
 }
